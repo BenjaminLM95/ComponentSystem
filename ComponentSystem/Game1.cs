@@ -8,6 +8,7 @@ namespace ComponentSystem
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        
 
         public Game1()
         {

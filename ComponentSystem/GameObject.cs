@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ComponentSystem
+internal class GameObject
 {
-    internal class GameObject
-    {
-    }
+
+
+
 }
+
